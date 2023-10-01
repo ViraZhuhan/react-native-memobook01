@@ -11,7 +11,6 @@ import styles from "./styles";
 import imageBg from "../images/photoBG.png";
 
 const LoginScreen = () => {
-  const [text, onChangeText] = useState("");
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
 
