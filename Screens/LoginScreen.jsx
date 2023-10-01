@@ -6,7 +6,7 @@ import {
   TextInput,
   ImageBackground,
 } from "react-native";
-import { MaterialCommunityIcons, Ionicons } from "@expo/vector-icons";
+import { MaterialCommunityIcons } from "@expo/vector-icons";
 import styles from "./styles";
 import imageBg from "../images/photoBG.png";
 
